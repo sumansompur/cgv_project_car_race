@@ -1,0 +1,2 @@
+Execute "bash race.bash"
+Execute ./race
